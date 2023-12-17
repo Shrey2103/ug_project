@@ -1,1 +1,3 @@
 # ug_project
+
+COLLEGE MANAGEMENT SYSTEM
